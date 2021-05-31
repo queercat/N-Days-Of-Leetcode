@@ -16,7 +16,6 @@ class Node():
 
 		return True
 
-
 	def tree_height(self):
 		root = self
 
